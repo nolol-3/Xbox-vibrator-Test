@@ -22,4 +22,4 @@ Quick Checklist:
 Controller plugged in via USB or official Xbox PC Wireless Adapter.
 Run the pip install command above.
 Run the Python script.
-Type devices, type the number for your USB device, and type vibrate_when_loud.
+And your done!
